@@ -31,3 +31,7 @@
 ```txt
 Reverse Engineering | Cyber Threat Intelligence | Researcher
 Software Engineer · DevOps · Security Researcher · Data Analysis · CI/CD · AWS  · IA · React · JavaScript
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coddrake/coddrake/main/giphy.gif" width="300"/>
+</p>
