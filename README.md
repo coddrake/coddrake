@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👁️ coddrake
 
-<!--
-**coddrake/coddrake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=800&lines=Engenharia+Social+%E2%89%A0+Hack...;Voc%C3%AA+%C3%A9+o+vetor.;Malware+%C3%A9+s%C3%B3+a+%C3%BAltima+etapa.;Think.+Question.+Verify." />
+</p>
 
-Here are some ideas to get you started:
+## ⚔️ Áreas de atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Malware Analysis (Stealers, RATs, campanhas reais)
+- 🧠 Engenharia Social aplicada a ataques modernos
+- 🛡️ Segurança ofensiva
+- 🌐 Investigação de campanhas e threat intelligence
+
+---
+
+## 🧪 Análises recentes
+
+- 🎮 Campanhas com foco em gamers (Roblox / YouTube)
+- 📡 Exfiltração via Telegram
+- 🍏 Ataques em macOS
+- ⚙️ Payloads multi-stage com persistência, C2 e botnets
+
+---
+
+## 🧩 ls
+
+```txt
+Reverse Engineering | Cyber Threat Intelligence | Researcher
+Software Engineer · DevOps · Security Researcher · Data Analysis · CI/CD · AWS  · IA · React · JavaScript
