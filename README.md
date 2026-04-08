@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/Dg9rDmDg/5828c8b894e9ad25c962c4c0b085d179.jpg" />
+  <img src="https://i.ibb.co/Dg9rDmDg/5828c8b894e9ad25c962c4c0b085d179.jpg" width="200" style="border-radius: 10px;" />
 </p>
 
 ## ⚔️ Áreas de atuação
