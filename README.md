@@ -11,7 +11,6 @@
 ## ⚔️ Áreas de atuação
 
 - 🔍 Malware Analysis (Stealers, RATs, campanhas reais)
-- 🧠 Engenharia Social aplicada a ataques modernos
 - 🛡️ Segurança ofensiva
 - 🌐 Investigação de campanhas e threat intelligence
 
@@ -19,7 +18,6 @@
 
 ## 🧪 Análises recentes
 
-- 🎮 Campanhas com foco em gamers (Roblox / YouTube)
 - 📡 Exfiltração via Telegram
 - 🍏 Ataques em macOS
 - ⚙️ Payloads multi-stage com persistência, C2 e botnets
