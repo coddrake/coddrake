@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thejproot-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejproot)
 [![Email](https://img.shields.io/badge/ProtonMail-coddrake-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:coddrake@proton.me)
 
-Software Engineer com 6+ anos de experiência em martech, fintech e hospitality. Paralelamente atuo como security researcher — malware analysis, threat intelligence e red team.
+Software Engineer com 6+ anos de experiência em martech, fintech e hospitality. Paralelamente atuo como security researcher há mais de 8 anos — malware analysis, threat intelligence e red team.
 
 ---
 
